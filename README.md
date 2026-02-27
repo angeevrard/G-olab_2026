@@ -18,16 +18,6 @@ L'objectif principal est de proposer une méthode reproductible permettant :
 
 L’étude est menée sur un territoire test : le département de l’Aude, servant de cas d’application méthodologique.
 
-## 🗂 Organisation du dépôt
-Le dépôt est structuré autour de quatre composantes principales :
-
-| Composante | Nom du dossier | Description |
-| :--- | :--- |:--- |
-| **Chaîne de traitement** | TRAITEMENT | Scripts Python dédiés au prétraitement et traitement des données |
-| **Visualisation web interactive** | Lien en PAGE D'ACCEUIL : About | Interface web permettant : l'exploration cartographique des résultats et via des indicateurs clés |
-| **Résultats** | TRAITEMENT | Sorties des résultats au format CSV, des couches géographiques prêtes à être exploités sous logiciels SIG |
-| **Article scientifique** | ARTICLE_SCIENTIFIQUE | Documentation complète détaillant le contexte, les données mobilisées, la méthodologie, les résultats, la discution et la conclusion |
-
 ---
 
 ## ⚙️ Démarche méthodologie
